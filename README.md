@@ -1,5 +1,5 @@
 # Data Bootcamp ECON-UB 232 Final Project
-# Nick Leung, Weiting Hong, William Jin, Brandon K Lee
+## Nick Leung, Weiting Hong, William Jin, Brandon K Lee
 ECON-UB 232 Data Bootcamp Fall 2018
 
 ## Introduction
